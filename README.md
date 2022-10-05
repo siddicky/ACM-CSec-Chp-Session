@@ -16,3 +16,15 @@ https://tryhackme.com/
 https://gist.github.com/artisin/1311d4f28b0141ef6b88a765a40966cc
 
 ---
+
+Tryhackme 1 month subscription codes
+
+```
+qUSnzu
+kFp5UJ
+qsZXGo
+DR8Qf5
+WK3hIm
+```
+
+Activate [here](https://admin.tryhackme.com/activate)
